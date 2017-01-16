@@ -1,0 +1,1 @@
+include ':app', ':startallvideoplayer', ':vitamio-sample', ':vitamio', ':xutils', ':xUtils3-master', 'RefreshLayout-master', ':MaterialRefresh_library', ':binderService'
